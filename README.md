@@ -6,29 +6,29 @@ python mainWindow.py
 ```
 
 <div style="text-align: center;">
-    <img src="./src/image0.png" style="max-width: 50%; height: auto;" alt="alt text">
+    <img src="./src/image0.png" style="max-width: 30%; height: auto;" alt="alt text">
 </div>
 
 ### exp1: 基本操作
 <div style="text-align: center;">
-    <img src="./src/image.png" style="max-width: 50%; height: auto;" alt="alt text">
-    <img src="./src/image-1.png" style="max-width: 50%; height: auto;" alt="alt text">
+    <img src="./src/image.png" style="max-width: 30%; height: auto;" alt="alt text">
+    <img src="./src/image-1.png" style="max-width: 30%; height: auto;" alt="alt text">
 </div>
 
 ### exp2: 图像增强
 <div style="text-align: center;">
-    <img src="./src/image-2.png" style="max-width: 50%; height: auto;" alt="alt text">
-    <img src="./src/image-3.png" style="max-width: 50%; height: auto;" alt="alt text">
+    <img src="./src/image-2.png" style="max-width: 30%; height: auto;" alt="alt text">
+    <img src="./src/image-3.png" style="max-width: 30%; height: auto;" alt="alt text">
 </div>
 
 ### exp3: 形态学操作
 <div style="text-align: center;">
-    <img src="./src/image-4.png" style="max-width: 50%; height: auto;" alt="alt text">
-    <img src="./src/image-5.png" style="max-width: 50%; height: auto;" alt="alt text">
+    <img src="./src/image-4.png" style="max-width: 30%; height: auto;" alt="alt text">
+    <img src="./src/image-5.png" style="max-width: 30%; height: auto;" alt="alt text">
 </div>
 
 ### exp4: 边缘检测
 <div style="text-align: center;">
-    <img src="./src/image-6.png" style="max-width: 50%; height: auto;" alt="alt text">
-    <img src="./src/image-7.png" style="max-width: 50%; height: auto;" alt="alt text">
+    <img src="./src/image-6.png" style="max-width: 30%; height: auto;" alt="alt text">
+    <img src="./src/image-7.png" style="max-width: 30%; height: auto;" alt="alt text">
 </div>
